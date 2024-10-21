@@ -1,0 +1,33 @@
+# This is a canopy of tree base c++ workflows, Statically ^env^Rec^ through Modular algorithmics that is manually builtin triggered
+# ["Algebra_Symbolics_Synchrony()"]... in other words static became "helloworld", "AI", "slaves to the domain"./manifest.dir.inhabits.js 
+name: Auto-Manual Translator Mission Workflow 
+ -texted: `https://translatewiki.net/setuplang=en/`
+ versioning: updates.Installed/Repo-Inspectors/offline.documents
+deploy: Continuous.C++(), foldermanager(), files.latest(), actions will list run #0 Workflow root runs "zero" when manually triggered using the UI
+# or API.
+on: push
+  workflow_dispatch: Engaged.Reader
+    # Inputs the workflow & accepts.
+    inputs: format.config
+      name:
+        # Friendly description to be shown in the UI instead of 'name'
+        description: 'Peer to get conjunction paraphrasing'
+        # @Root.version value =0= if no value is explicitly provided
+        def.Mauder: "Hello_World'
+        # Input has to be provided for the workflow to runner(.xml)
+        required: true
+        # The data type of the input/output, encoder/decoder, A/B test
+        type: string
+ artifact: templates.png
+# Artifact attestor workspace overflow runner is made up of one or more jobs that can run sequentially or in parallel
+jobs: overkill.alt
+  # This workflow contains a screen record called "gif"
+  get: Resolution Display 
+    # The type of runner that the job will run on
+    runs-on: platforms-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+    # Runs a single command using the runners shell
+    - name: SharePoint Grouping "${{https://0.0.0.0:8080}}"
+      run: ts.script "SHH ${{ inputs.name }}"
